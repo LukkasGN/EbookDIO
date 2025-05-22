@@ -1,0 +1,6 @@
+Prompts used in ChatGPT (The MidJourney discord were bugged):
+Hi, i'm participating in a bootCamp, and I was tasked with building an Ebook using IA, I was thinking in something like a space adventure Ebook, like a No man's sky style image in the front, can you help me with that?
+An futuristic astronaut, in a sunset, and lets try with the title already on first
+Perfect, and now for the story, can you help me write a story based on an espacial adventure, and exploration? The course doesnt determine how much we should write, but somethin along 2 or 3 pages will be enough
+I liked a lot, but Im having trouble with finding a good font for use in my titles, and general text
+Now im having trouble fining a good gradient for the background of the pages, becouse i cant use anything because of the text, but I dont want it to be white either
